@@ -15,7 +15,7 @@ const getTipContent = (tipNumber: number) => {
         title: "Tip 1: Plan Routes",
         description: `During floods, having pre-planned emergency routes can be life-saving. Identify the safest routes to high ground or nearby shelters and communicate these routes to your family or community. Make sure to practice these routes with your family so everyone is familiar with them. 
         \nAdditionally, stay informed about road closures and flood-prone areas through local news and alerts.`,
-        image: tip1Image, // Use local image
+        image: tip1Image, 
       };
     case 2:
       return {

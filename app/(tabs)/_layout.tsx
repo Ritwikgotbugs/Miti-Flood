@@ -1,7 +1,6 @@
 import { Image, View, Text } from "react-native";
 import { Tabs } from "expo-router";
-import React = require("react");
-
+import React from "react";
 interface TabIconProps {
   icon: any;
   color: string;
